@@ -1,0 +1,15 @@
+# VS Code
+.vscode/
+
+# Dependencies
+vendor/
+node_modules/
+
+# Cache dan temporary
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# File sistem
+desktop.ini
